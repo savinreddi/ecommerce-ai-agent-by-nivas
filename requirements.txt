@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+matplotlib
+plotly
+openai
+requests
+websockets
+pandas
+seaborn
+python-dotenv
+numpy
